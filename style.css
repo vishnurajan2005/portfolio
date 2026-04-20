@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #781616c3;
+}
+
+#home {
+  background: linear-gradient(to right, #858788, #394653);
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
